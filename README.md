@@ -1,3 +1,9 @@
 # IPL_analysis
 
-EDA on a data scraped from Kaggle.
+Source of the data https://www.kaggle.com/ramjidoolla/ipl-data-set
+
+similar notebook on kaggle -https://www.kaggle.com/sagnik1511/ipl-analysis-1
+
+Project on  : 
+
+              Data Analysis
