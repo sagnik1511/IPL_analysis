@@ -6,4 +6,4 @@ similar notebook on kaggle -https://www.kaggle.com/sagnik1511/ipl-analysis-1
 
 Project on  : 
 
-              Data Analysis
+             1. Data Analysis
